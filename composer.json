@@ -1,0 +1,20 @@
+{
+    "name": "chubbyphp/chubbyphp-dev-helper",
+    "description": "A dev helper which provides coding standards and quality settings.",
+    "keywords": [],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dominik Zogg",
+            "email": "dominik.zogg@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.2",
+        "friendsofphp/php-cs-fixer": "^2.16.1",
+        "nunomaduro/phpinsights": "^1.11.1"
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
