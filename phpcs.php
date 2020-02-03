@@ -25,6 +25,7 @@ return [
         'php_unit_mock' => true,
         'php_unit_namespaced' => true,
         'php_unit_no_expectation_annotation' => true,
+        'phpdoc_to_comment' => false,
         'single_line_throw' => false,
         'ternary_to_null_coalescing' => true,
         'void_return' => true,
