@@ -11,7 +11,7 @@
     ],
     "require": {
         "php": "^7.2",
-        "friendsofphp/php-cs-fixer": "^2.16.2",
+        "friendsofphp/php-cs-fixer": "^2.16.4",
         "nunomaduro/phpinsights": "^1.14"
     },
     "config": {
