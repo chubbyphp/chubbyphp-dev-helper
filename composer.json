@@ -10,8 +10,8 @@
         }
     ],
     "require": {
-        "php": "^7.2",
-        "friendsofphp/php-cs-fixer": "^2.16.4",
+        "php": "^7.2|^8.0",
+        "friendsofphp/php-cs-fixer": "^2.16.7",
         "nunomaduro/phpinsights": "^1.14"
     },
     "config": {
