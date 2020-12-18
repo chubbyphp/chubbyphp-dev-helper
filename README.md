@@ -12,7 +12,7 @@ A dev helper which provides coding standards and quality settings.
 ## Requirements
 
  * php: ^7.2|^8.0
- * friendsofphp/php-cs-fixer: ^2.16.7
+ * friendsofphp/php-cs-fixer: ^2.17.2
  * nunomaduro/phpinsights: ^1.14
 
 ## Installation
