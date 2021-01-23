@@ -27,8 +27,11 @@ return [
         'php_unit_no_expectation_annotation' => true,
         'phpdoc_to_comment' => false,
         'single_line_throw' => false,
+        'static_lambda' => true,
         'ternary_to_null_coalescing' => true,
+        'use_arrow_functions' => true,
         'void_return' => true,
+        'yoda_style' => true,
     ],
     'riskyAllowed' => true,
 ];
