@@ -13,7 +13,6 @@ A dev helper which provides coding standards and quality settings.
 
  * php: ^7.2|^8.0
  * friendsofphp/php-cs-fixer: ^2.17.2
- * nunomaduro/phpinsights: ^1.14
 
 ## Installation
 
@@ -49,19 +48,6 @@ return PhpCsFixer\Config::create()
     ->setRiskyAllowed($config['riskyAllowed'])
     ->setFinder($finder)
 ;
-```
-
-### PHP-INSIGHTS
-
-```php
-<?php
-
-declare(strict_types=1);
-
-/** @var array $config */
-$config = require __DIR__ . '/vendor/chubbyphp/chubbyphp-dev-helper/phpinsights.php';
-
-return $config;
 ```
 
 ## Copyright
