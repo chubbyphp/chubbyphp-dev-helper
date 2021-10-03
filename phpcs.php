@@ -12,7 +12,6 @@ return [
         '@PHPUnit84Migration:risky' => true,
         '@PhpCsFixer' => true,
         '@PhpCsFixer:risky' => true,
-        'mb_str_functions' => true,
         'array_syntax' => ['syntax' => 'short'],
         'final_class' => true,
         'final_public_method_for_abstract_class' => true,
