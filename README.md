@@ -12,7 +12,7 @@ A dev helper which provides coding standards and quality settings.
 ## Requirements
 
  * php: ^7.4|^8.0
- * friendsofphp/php-cs-fixer: ^2.18.1
+ * friendsofphp/php-cs-fixer: ^3.11
 
 ## Installation
 
@@ -52,6 +52,6 @@ return (new PhpCsFixer\Config)
 
 ## Copyright
 
-Dominik Zogg 2021
+Dominik Zogg 2022
 
 [1]: https://packagist.org/packages/chubbyphp/chubbyphp-dev-helper
