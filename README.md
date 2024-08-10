@@ -1,9 +1,8 @@
 # chubbyphp-dev-helper
 
-[![Total Downloads](https://poser.pugx.org/chubbyphp/chubbyphp-dev-helper/downloads.png)](https://packagist.org/packages/chubbyphp/chubbyphp-dev-helper)
+[![Latest Stable Version](https://poser.pugx.org/chubbyphp/chubbyphp-dev-helper/v)](https://packagist.org/packages/chubbyphp/chubbyphp-dev-helper)
+[![Total Downloads](https://poser.pugx.org/chubbyphp/chubbyphp-dev-helper/downloads)](https://packagist.org/packages/chubbyphp/chubbyphp-dev-helper)
 [![Monthly Downloads](https://poser.pugx.org/chubbyphp/chubbyphp-dev-helper/d/monthly)](https://packagist.org/packages/chubbyphp/chubbyphp-dev-helper)
-[![Latest Stable Version](https://poser.pugx.org/chubbyphp/chubbyphp-dev-helper/v/stable.png)](https://packagist.org/packages/chubbyphp/chubbyphp-dev-helper)
-[![Latest Unstable Version](https://poser.pugx.org/chubbyphp/chubbyphp-dev-helper/v/unstable)](https://packagist.org/packages/chubbyphp/chubbyphp-dev-helper)
 
 ## Description
 
