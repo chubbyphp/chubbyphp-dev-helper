@@ -10,8 +10,8 @@
         }
     ],
     "require": {
-        "php": "^8.1",
-        "friendsofphp/php-cs-fixer": "^3.40"
+        "php": "^8.2",
+        "friendsofphp/php-cs-fixer": "^3.65"
     },
     "config": {
         "sort-packages": true

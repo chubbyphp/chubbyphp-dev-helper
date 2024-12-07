@@ -10,8 +10,8 @@ A dev helper which provides coding standards and quality settings.
 
 ## Requirements
 
- * php: ^8.1
- * friendsofphp/php-cs-fixer: ^3.40
+ * php: ^8.2
+ * friendsofphp/php-cs-fixer: ^3.65
 
 ## Installation
 

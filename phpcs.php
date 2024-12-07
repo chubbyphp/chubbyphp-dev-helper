@@ -7,9 +7,9 @@ return [
     'lineEnding' => "\n",
     'rules' => [
         '@DoctrineAnnotation' => true,
-        '@PHP80Migration:risky' => true,
-        '@PHP81Migration' => true,
-        '@PHPUnit84Migration:risky' => true,
+        '@PHP82Migration:risky' => true,
+        '@PHP82Migration' => true,
+        '@PHPUnit100Migration:risky' => true,
         '@PhpCsFixer' => true,
         '@PhpCsFixer:risky' => true,
         'array_syntax' => ['syntax' => 'short'],
