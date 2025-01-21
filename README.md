@@ -51,6 +51,6 @@ return (new PhpCsFixer\Config)
 
 ## Copyright
 
-2024 Dominik Zogg
+2025 Dominik Zogg
 
 [1]: https://packagist.org/packages/chubbyphp/chubbyphp-dev-helper
