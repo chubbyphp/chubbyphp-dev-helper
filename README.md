@@ -10,8 +10,8 @@ A dev helper which provides coding standards and quality settings.
 
 ## Requirements
 
- * php: ^8.2
- * friendsofphp/php-cs-fixer: ^3.65
+ * php: ^8.3
+ * friendsofphp/php-cs-fixer: ^3.91.2
 
 ## Installation
 
@@ -41,6 +41,7 @@ $finder = PhpCsFixer\Finder::create()
 $config = require __DIR__ . '/vendor/chubbyphp/chubbyphp-dev-helper/phpcs.php';
 
 return (new PhpCsFixer\Config)
+    ->setUnsupportedPhpVersionAllowed(true)
     ->setIndent($config['indent'])
     ->setLineEnding($config['lineEnding'])
     ->setRules($config['rules'])

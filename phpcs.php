@@ -9,6 +9,7 @@ return [
         '@DoctrineAnnotation' => true,
         '@PHP82Migration:risky' => true,
         '@PHP82Migration' => true,
+        '@PHP83Migration' => true,
         '@PHPUnit100Migration:risky' => true,
         '@PhpCsFixer' => true,
         '@PhpCsFixer:risky' => true,
