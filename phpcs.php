@@ -22,6 +22,7 @@ return [
         'simplified_if_return' => true,
         'yoda_style' => true,
         'nullable_type_declaration_for_default_null_value' => true,
+        'phpdoc_to_comment' => false,
         'phpdoc_to_param_type' => true,
         'phpdoc_to_property_type' => true,
         'phpdoc_to_return_type' => true,
