@@ -11,7 +11,7 @@
     ],
     "require": {
         "php": "^8.3",
-        "friendsofphp/php-cs-fixer": "^3.91.2"
+        "friendsofphp/php-cs-fixer": "^3.95.11"
     },
     "config": {
         "sort-packages": true
