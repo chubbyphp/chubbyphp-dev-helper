@@ -11,7 +11,7 @@ A dev helper which provides coding standards and quality settings.
 ## Requirements
 
  * php: ^8.3
- * friendsofphp/php-cs-fixer: ^3.95.11
+ * friendsofphp/php-cs-fixer: ^3.95.24
 
 ## Installation
 
